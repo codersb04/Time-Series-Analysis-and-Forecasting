@@ -27,4 +27,17 @@ Reference: Live Day 1- Exploratory Data Analysis And Stock Analysis With Time se
 Reference: ACF & PACF Code Example : Time Series Talk, ritvikmath, https://www.youtube.com/watch?v=y8opUEd05Dg
 
 
+### Time Series - Moving Average
+- Used Tesla Stock Price data. (Included in this repository)
+- Topic Covered:
+  - Simple Moving Average
+  - Cummulative Moving Average
+  - Exponential Moving Average(EMA)
+  - Exponential Weighted Moving Average(EWMA)</br></br></br>
+
+Reference: Live Day 2- TimeSeries,ETS,EWMA,ARIMA,SARIMAX, Fbprophet Session, Krish Naik, https://www.youtube.com/watch?v=ECBHH0J2N1A
+
+
+
+
 
