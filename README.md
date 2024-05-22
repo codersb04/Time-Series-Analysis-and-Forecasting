@@ -37,6 +37,18 @@ Reference: ACF & PACF Code Example : Time Series Talk, ritvikmath, https://www.y
 
 Reference: Live Day 2- TimeSeries,ETS,EWMA,ARIMA,SARIMAX, Fbprophet Session, Krish Naik, https://www.youtube.com/watch?v=ECBHH0J2N1A
 
+### Time Series - ARIMA,SARIMAX
+- Used airline passenger data. (Included in this repository)
+- Topic Covered:
+  - Dickey Fuller Test
+  - Differencing using **shift** function
+  - ACF(Auto Corelation) and PACF(Partial Auto Correlation) plot for first, second and 12th differencing
+  - ARIMA model
+  - SARIMA model</br></br></br>
+
+Reference: Live Day 3- ARIMA,SARIMAX, Fbprophet Session, Krish Naik, https://www.youtube.com/watch?v=NzSyQcJ9NeE
+ 
+
 
 
 
